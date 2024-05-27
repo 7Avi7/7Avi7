@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/7Avi7/7Avi7/blob/main/avi-git-banner.png" alt="logo" style="width:100%; max-width:300px;"/>
+  <img src="https://github.com/7Avi7/7Avi7/blob/main/avi-git-banner.png" alt="logo" width="800" />
 </p>
 <h1 align="center">Hi 👋, I'm Avilash Bhowmik</h1>
 <h3 align="center">A passionate Software Engineer</h3>
