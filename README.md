@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 <img  alt="coding" width="1000" height="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7avi7&label=Profile%20views&color=0e75b6&style=flat" alt="7avi7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7avi7" alt="7avi7" /></a> </p>
@@ -24,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avilash-bhowmik-9674a3215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avilash-bhowmik-9674a3215/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/7avi7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/7avi7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avilash-bhowmik-9674a3215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avilash-bhowmik-9674a3215" height="30" width="40" /></a>
+<a href="https://fb.com/7avi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7avi7" height="30" width="40" /></a>
 <a href="https://instagram.com/avilash_bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avilash_bhowmik" height="30" width="40" /></a>
 </p>
 
